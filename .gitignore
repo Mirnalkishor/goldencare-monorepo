@@ -1,6 +1,0 @@
-/server/env
-/server/backend_main/backend_main/__pycache__
-/server/backend_main/db.sqlite3 
-/server/backend_main/backend_main/*.log
-.env
-.env.*
