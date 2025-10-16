@@ -1,6 +1,7 @@
 <script lang="ts">
     const caregivers = [
         {
+            id : 1,
             name: "Aashya",
             rating: 4.9,
             reviews: 25,
@@ -9,6 +10,7 @@
             verified: true,
         },
         {
+            id : 2,
             name: "Nadeem",
             rating: 4.8,
             reviews: 18,
@@ -17,6 +19,7 @@
             verified: true,
         },
         {
+            id : 3,
             name: "Aman",
             rating: 4.9,
             reviews: 32,
@@ -25,7 +28,8 @@
             verified: true,
         },
         {
-            name: "Aman",
+            id : 4,
+            name: "AmanX",
             rating: 4.9,
             reviews: 32,
             bio: "Aman has a lively personality and loves sharing stories about classic films. His cheerful energy is contagious and sure to brighten anyone's day.",
@@ -33,7 +37,8 @@
             verified: true,
         },
         {
-            name: "Aman",
+            id : 5,
+            name: "AmanY",
             rating: 4.9,
             reviews: 32,
             bio: "Aman has a lively personality and loves sharing stories about classic films. His cheerful energy is contagious and sure to brighten anyone's day.",
@@ -41,7 +46,8 @@
             verified: true,
         },
         {
-            name: "Aman",
+            id : 6,
+            name: "AmanZ",
             rating: 4.9,
             reviews: 32,
             bio: "Aman has a lively personality and loves sharing stories about classic films. His cheerful energy is contagious and sure to brighten anyone's day.",
